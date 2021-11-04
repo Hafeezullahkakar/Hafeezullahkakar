@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hafeezullahkakar
 - 👀 I’m interested in Mern Stack Development
-- 🌱 I’m currently Making clones using MERN Stack
-- 💞️ I’m looking to collaborate on MERN stack Projects and JavaScript(using HTML, CSS etc) Projects.
+- 🌱 I’m currently work as Freelancer as a MERN Stack Developer.
+- 💞️ I’m looking to collaborate on MERN stack Projects.
 - 📫 I can be reached at hafeezullahkakar@gmail.com
 
 <!---
