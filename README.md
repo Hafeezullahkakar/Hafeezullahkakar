@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hafeezullahkakar
-- 👀 I’m interested in Mern Stack Development
-- 🌱 I’m currently work as Freelancer as a MERN Stack Developer.
-- 💞️ I’m looking to collaborate on MERN stack Projects.
+- 👋 Hi, I’m @Hafeezullahkakar, a Software Engineer[MERN Stack Developer]
+- 👀 I’m interested in Blockchain technology.
+- 🌱 I’m currently work as Freelancer on Upwork as a MERN Stack Developer.
+- 💞️ I’m looking to collaborate on MERN stack and Blockchain Projects.
 - 📫 I can be reached at hafeezullahkakar@gmail.com
 
 <!---
