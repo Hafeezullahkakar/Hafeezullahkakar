@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Hafeezullahkakar, a Software Engineer[MERN Stack Developer]<br>👀 I’m interested in Blockchain technology.<br>🌱 I’m currently work as Freelancer on Upwork as a MERN Stack Developer.<br>💞️ I’m looking to collaborate on MERN stack and Blockchain Projects.<br>📫 I can be reached at hafeezullahkakar@gmail.com
+👋 Hi, I’m @Hafeezullahkakar, a Software Engineer[MERN Stack Developer || .NET]<br>👀 I’m interested in Developing exciting solutions to hard problems.<br>🌱 I’m currently work as SDE at Alachisoft, where we work on NCache, a distributed cache solution. And at times, when I have time on my hand, I work on Upwork as a MERN Stack Developer.<br>💞️ I’m looking to collaborate on MERN stack and .NET Projects.<br>📫 I can be reached at hafeezullah2361@gmail.com
 
 
 ## 🌐 Socials:
